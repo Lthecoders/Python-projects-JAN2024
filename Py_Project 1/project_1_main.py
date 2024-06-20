@@ -60,8 +60,10 @@ while True:
     comp_choice = ['snake', 'water', 'gun']
     if iteration_loop_2 >= 2:
       print('--------------------------------------------------------->')
+    print(f'\nROUND : {iteration_loop_1}')
+    print('---------------')
     user_choice = input(
-        '\n\n** --- Enter one of Snake, Water or Gun\n\n-------> ').strip(
+        '\n** --- Enter one of Snake, Water or Gun\n\n-------> ').strip(
         ).lower()
     if user_choice not in comp_choice:
       print(
