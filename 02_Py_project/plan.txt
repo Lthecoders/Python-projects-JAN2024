@@ -1,2 +1,22 @@
 
 plan light
+
+
+step 1: 
+aim to generated random int number from 1 to 100
+
+step 2:
+ask the user to guess that perticular random nubmer.
+
+
+step 3:
+if the user guess is higher, display 'lower number please'
+
+step 4:
+if the user guess is lower, display 'higher number please'
+
+
+step 5:
+if the user guess is correct and same. display the user 'correct'
+and show him number of attempt he had taken to complet this game.
+
