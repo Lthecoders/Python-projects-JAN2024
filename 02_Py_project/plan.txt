@@ -1,6 +1,9 @@
 
 plan light
 
+LIGHT
+
+
 
 step 1: 
 aim to generated random int number from 1 to 100
