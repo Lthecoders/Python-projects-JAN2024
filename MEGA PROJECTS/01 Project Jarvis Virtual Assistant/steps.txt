@@ -1,0 +1,12 @@
+first we have to create an env
+
+then imorting necessary module
+1. speechrecoginition: it is used to convert speech to text
+2. pyaudio: it is used to record audio
+3. setup tools: it is used to install the module
+4. pyttsx3: it is used to convert text to speech
+5. pocketsphinx: it is used to convert speech to text
+
+we can import multiple modules in a single line by pip install and name of module and space another name of the moduleu
+
+
